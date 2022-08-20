@@ -7,6 +7,7 @@ public class AxisBank {
 	public void sample() {
 		System.out.println("git");
 		System.out.println("rani");
+		System.out.println("hello");
 	}
 	
 
